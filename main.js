@@ -1,6 +1,6 @@
 let resume = `# 吴俊涛
 186xxxxxxxxx | wujunt@163.com | 重庆
-18届本科毕业生 | 前端开发工程师
+18届本科毕业生 | 前端开发工程师 | github:
 
 ## 专业技能
 - HTML5, CSS3 & JavaScript
