@@ -1,6 +1,6 @@
 let resume = `# 吴俊涛
-186xxxxxxxxx | wujunt@163.com | 重庆
-18届本科毕业生 | 前端开发工程师 | github:
+186xxxxxxxxx | wujunt@163.com | 福州
+18届本科毕业生 | 前端开发工程师 | github:https://github.com/wujunt
 
 ## 专业技能
 - HTML5, CSS3 & JavaScript
@@ -25,7 +25,7 @@ let resume = `# 吴俊涛
 ### 简历生成器
 - 关键词：\`JavaScript\`、\`Promise\`、\`变速\`、\`过渡动画\`、\`盒阴影\`
 - 描述：该项目实现了一个 Markdown 简历的制作过程，在原生 JS 中使用 Promise 处理异步操作，利用 CSS3 实现过渡、动画、阴影和弹性布局等。
-- [源码链接]() | [预览链接]()
+- [源码链接](https://github.com/wujunt/animating-resume-master_2) | [预览链接]()
 
 
 ## 教育经历
